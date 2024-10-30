@@ -1,6 +1,6 @@
 # RISC-V CPU with AXI Master Interface in SystemVerilog
 
-This project implements a 32-bit RISC-V CPU using the RV32I instruction set. The CPU uses a multicycle design for efficient resource use and is deployed on a Xilinx Spartan FPGA. An AXI master interface is added to enable communication with peripheral hardware. For a deeper dive into each component, including RISC-V datapath details, AXI interface timing diagrams, and comprehensive installation instructions for the RISC-V toolchain, refer to [RISCV w/ AXI Master](riscv_deck.pdf).
+This project implements a 32-bit RISC-V CPU using the RV32I instruction set architecture. This implementation uses a multicycle design for efficient resource use and is deployed on a Xilinx Spartan FPGA. An AXI master interface is added to enable communication with peripheral hardware. For a deeper dive into each component, including RISC-V datapath details, AXI interface timing diagrams, and comprehensive installation instructions for the RISC-V toolchain, refer to [RISCV w/ AXI Master](riscv_deck.pdf).
 
 ## Project Overview
 
