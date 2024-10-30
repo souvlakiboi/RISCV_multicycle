@@ -6,7 +6,7 @@ This project implements a 32-bit RISC-V CPU using the RV32I instruction set. The
 
 ### 1. Create RV32I CPU with Multicycle Design
 
-![](img/riscv_slide.png)
+![](img/riscv_datapath.png)
 *RV32i Datapath*
 
 ### 2. Add AXI Master for Communication with Hardware Peripherals
