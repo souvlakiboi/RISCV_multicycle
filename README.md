@@ -21,4 +21,4 @@ This project implements a 32-bit RISC-V CPU using the RV32I instruction set. The
 
 ## Additional Resources
 
-For a deeper dive into each component, including RISC-V datapath details, AXI interface timing diagrams, and comprehensive installation instructions for the RISC-V toolchain, refer to the **PDF slide deck** provided in the project repository.
+For a deeper dive into each component, including RISC-V datapath details, AXI interface timing diagrams, and comprehensive installation instructions for the RISC-V toolchain, refer to the [RISCV w/ AXI Master](riscv_deck.pdf) provided in the project repository.
